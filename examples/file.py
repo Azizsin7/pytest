@@ -21,7 +21,7 @@ from functions import (add, subtract, multiply, power, division, quotient, remai
 #- remain
 #- fibonacci
 while True:
-    # Loop to ensure the input for X enters correctly, otherwise it will execute the line 76
+    # Loop to ensure the input for X enters correctly, otherwise it will execute the line 103
     X = input("Select: a(Arith) or f(Fibonacci): ").lower()
     """input
     getting X from the user, .lower() is to lower the input from user and not having capital

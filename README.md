@@ -375,3 +375,7 @@ then run this command in terminal (ctrl+j):
   ```bash
     python -m unittest path/test_function.py
    ```
+
+---
+
+* You can download the files in the [examples](https://github.com/Azizsin7/pytest/tree/main/examples) folder if you want.
